@@ -1,6 +1,6 @@
 # Spruce Budworm Model
 
-This project studies the spruce budworm population dynamics using
+This project (assignment 1 for Applied Math Lab) studies the spruce budworm population dynamics using
 ordinary differential equations.
 
 ## Contents
